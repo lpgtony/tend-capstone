@@ -59,7 +59,6 @@ A core design principle is the separation of **deterministic** and **probabilist
 ```
 ├── report/           Capstone report (PDF)
 ├── presentation/     Slide deck (PPTX)
-└── diagrams/         ERD and architecture diagrams
 ```
 
 The application source code is maintained in a private repository. The live application is available at [tendcard.com](https://tendcard.com).
